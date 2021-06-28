@@ -37,3 +37,5 @@ app.get('/turing',(req,res)=>{
 });
 // para que las img se vean en el nav
 app.use(express.static('public'));
+
+// subido a git 
